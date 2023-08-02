@@ -1,7 +1,8 @@
-Granit Haxhaj: Ruby on Rails Full Stack Developer
+# Granit Haxhaj: Ruby on Rails Full Stack Developer
+
 Hello, world! I'm Granit, a passionate Software Engineer hailing from the heart of Texas. With a foundation in Economics from Fordham University, I've ventured deep into the realms of web development and data management. My expertise allows me to craft intricate solutions for companies navigating the challenges of large databases and intricate full-stack web applications.
 
-🚀 Projects & Experience:
+## 🚀 Projects & Experience:
 Theater Engine:
 Dived deep into the world of theater, constructing the project's infrastructure using docker containers. These containers play host to a myriad of components, including a Rails server, PostgreSQL database, Sidekiq, Elasticsearch, and more. The project boasts multiple MVC architectural components, such as Albums, Festivals, Media, Theaters, and Users.
 
@@ -14,7 +15,7 @@ Crafted online shopping platforms centered around POS systems like Square, EPOS,
 Recharge Payments:
 As a full-stack maestro, I contributed to the Recharge Payments project, birthing the Recharge Adapter. Recognized as the top subscription app on the Shopify App Store, this adapter extends Recharge’s functionality to platforms like BigCommerce and potentially Magento, WooCommerce, and others. This extension is achieved through meticulous API backend development paired with a vibrant Javascript Vue front-end.
 
-🌐 Connect with Me:
+## 🌐 Connect with Me:
 Feel free to reach out, discuss projects, or simply chat about the latest in web development. Let's create something spectacular together!
 
 Crafted with passion by Granit Haxhaj, your friendly neighborhood Full Stack Developer from Texas. 🌟
