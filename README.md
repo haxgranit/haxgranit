@@ -1,6 +1,6 @@
 # Granit Haxhaj: Ruby on Rails Full Stack Developer
 
-Hello, world! I'm Granit, a passionate Software Engineer hailing from the heart of Texas. With a foundation in Economics from Fordham University, I've ventured deep into the realms of web development and data management. My expertise allows me to craft intricate solutions for companies navigating the challenges of large databases and intricate full-stack web applications.
+Hello, world! I'm a passionate Software Engineer hailing from the heart of NYC. With a foundation in Economics from Fordham University, I've ventured deep into the realms of web development and data management. My expertise allows me to craft intricate solutions for companies navigating the challenges of large databases and intricate full-stack web applications.
 
 ## 🚀 Projects & Experience:
 ### Theater Engine:
