@@ -41,4 +41,4 @@ Technical Solution:
 ## 🌐 Connect with Me:
 Feel free to reach out, discuss projects, or simply chat about the latest in web development. Let's create something spectacular together!
 
-Crafted with passion by Granit Haxhaj, your friendly neighborhood Full Stack Developer from Texas. 🌟
+Crafted with passion by Granit Haxhaj, your friendly neighborhood Full Stack Developer from NYC. 🌟
