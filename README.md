@@ -1,4 +1,4 @@
-![image](https://github.com/haxgranit/haxgranit/assets/28113737/3571bcaf-3bd0-4b56-8dc1-baf269997de8)# Granit Haxhaj: Versatile Full Stack Developer (Ruby on Rails, Java, React, BigCommerce, Shopify)
+# Granit Haxhaj: Versatile Full Stack Developer (Ruby on Rails, Java, React, BigCommerce, Shopify)
 
 Hello, world! I'm a passionate Software Engineer hailing from the heart of NYC. With a foundation in Economics from Fordham University, I've ventured deep into the realms of web development and data management. My expertise allows me to craft intricate solutions for companies navigating the challenges of large databases and intricate full-stack web applications.
 
