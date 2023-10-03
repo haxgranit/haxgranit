@@ -1,8 +1,40 @@
-# Granit Haxhaj: Ruby on Rails Full Stack Developer
+![image](https://github.com/haxgranit/haxgranit/assets/28113737/3571bcaf-3bd0-4b56-8dc1-baf269997de8)# Granit Haxhaj: Versatile Full Stack Developer (Ruby on Rails, Java, React, BigCommerce, Shopify)
 
 Hello, world! I'm a passionate Software Engineer hailing from the heart of NYC. With a foundation in Economics from Fordham University, I've ventured deep into the realms of web development and data management. My expertise allows me to craft intricate solutions for companies navigating the challenges of large databases and intricate full-stack web applications.
 
 ## 🚀 Projects & Experience:
+### Recharge Adapter Integration Services:
+1. Shopify Integration
+Crafted for "Recharge Payments", a top-tier subscription app on the Shopify App Store, to streamline subscription renewals.
+
+Technical Solutions:
+
+	• Employed Shopify’s Storefront API for instantaneous data access.
+	• Merged with the Recharge API to oversee subscription processes.
+	• Initiated AJAX protocols to retrieve subscription data during product page visits.
+	• Adjusted product visuals using scripts and CSS to display subscription options.
+
+2. BigCommerce/Magento Integration
+Formulated for Lexli, Cnpusa, and Theochocolate to introduce subscription boxes.
+
+Technical Solutions:
+
+	• Engaged BigCommerce's V3 API to capture product specifics.
+	• Synchronized with Recharge for subscription renewal and management.
+	• Incorporated AJAX for on-the-spot updates on product pages.
+	• Made aesthetic alterations via BigCommerce scripts to enhance subscription displays.
+
+3. WooCommerce Integration
+Conceived for "Recharge Payments" to simplify recurring order processes.
+
+Technical Solutions:
+
+	• Tapped into the WooCommerce REST API for comprehensive product and order insights.
+	• Fused with Recharge to manage subscription intricacies.
+	• Deployed AJAX techniques to refresh subscription details on product pages.
+	• Applied WordPress hooks and filters to refine the front-end presentation.
+
+
 ### Theater Engine:
 Dived deep into the world of theater, constructing the project's infrastructure using docker containers. These containers play host to a myriad of components, including a Rails server, PostgreSQL database, Sidekiq, Elasticsearch, and more. The project boasts multiple MVC architectural components, such as Albums, Festivals, Media, Theaters, and Users.
 
